@@ -3,4 +3,4 @@ Welcome to my GitHub repository. Here, you'll find a collection of my projects, 
 
 #About Me
 
-#I'm Jakir Hosen, a passionate software developer with a keen interest in Vue, React, Laravel.
+I'm Jakir Hosen, a passionate software developer with a keen interest in Vue, React, Laravel.
